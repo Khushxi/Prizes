@@ -1,0 +1,189 @@
+body {
+    font-family: poppins;
+    
+
+}
+
+.holder{
+    width: 900px;
+    margin: 5% auto;
+
+
+}
+
+.medals{
+    width: 33%;
+    background: lightblue;
+    float: left;
+    margin-top: 2%;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.5);
+    text-align: center;
+    transition: 0.9s;
+    border-radius: 20px;
+   
+
+
+}
+.medals-1{
+    width: 33%;
+    background: lightblue;
+    float: left;
+    margin-top: 2%;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.5);
+    text-align: center;
+    transition: 0.9s;
+    border-radius: 20px;
+   
+
+
+}
+.medals-2{
+    width: 33%;
+    background: lightblue;
+    float: left;
+    margin-top: 2%;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.5);
+    text-align: center;
+    transition: 0.9s;
+    border-radius: 20px;
+   
+
+
+}
+
+.prize{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 5% auto 0 auto;
+    text-align: center;
+
+}
+
+.prize-1{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 5% auto 0 auto;
+    text-align: center;
+
+}
+
+.prize-2{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 5% auto 0 auto;
+    text-align: center;
+
+}
+
+
+
+
+
+
+.how{
+    margin-top: 10%;
+}
+
+
+.medals h1{
+    font-size: 18px;
+    color: #fff;
+    line-height: 3;
+    text-transform: uppercase;
+}
+
+
+.medals h2{
+    font-size: 38px;
+    color: #fff;
+}
+.medals-1 h1{
+    font-size: 18px;
+    color: #fff;
+    line-height: 3;
+    text-transform: uppercase;
+}
+
+
+.medals-1 h2{
+    font-size: 38px;
+    color: #fff;
+}
+.medals-2 h1{
+    font-size: 18px;
+    color: #fff;
+    line-height: 3;
+    text-transform: uppercase;
+}
+
+
+.medals-2 h2{
+    font-size: 38px;
+    color: #fff;
+}
+
+.how {
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    line-height: 1;
+}
+
+.medals:hover{
+    background:silver;
+    color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+    transform: scale(1.1);
+    z-index: 1;
+    border-radius: 25px;
+
+
+}
+.medals-1:hover{
+    background: gold;
+    color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+    transform: scale(1.1);
+    z-index: 1;
+    border-radius: 25px;
+
+
+}
+.medals-2:hover{
+    background: brown;
+    color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+    transform: scale(1.1);
+    z-index: 1;
+    border-radius: 25px;
+
+
+}
+
+.medals:hover  .prize{
+    border-color: black;
+
+}
+.medals-1:hover  .prize-1{
+    border-color:black;
+
+}
+.medals-2:hover  .prize-2{
+    border-color: black;
+
+}
+
+
+body {
+    background-color: lightblue;
+}
